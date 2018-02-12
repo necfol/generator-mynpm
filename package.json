@@ -1,0 +1,32 @@
+{
+  "name": "generator-mynpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/necfol/generator-mynpm.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "generator-mynpm"
+  ],
+  "files": [
+    "generator-mynpm"
+  ],
+  "author": "Necfol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/necfol/generator-mynpm/issues"
+  },
+  "homepage": "https://github.com/necfol/generator-mynpm#readme",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "object-assign": "^4.1.1",
+    "progress-bar": "^0.1.1",
+    "yeoman-generator": "^2.0.2"
+  }
+}
